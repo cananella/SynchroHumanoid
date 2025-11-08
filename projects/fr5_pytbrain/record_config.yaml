@@ -1,0 +1,73 @@
+# FR5-Quest Dataset Recording Configuration
+
+# ==================== Dataset ====================
+dataset:
+  # Dataset name (will be used for directory and HuggingFace repo)
+  # Example: "fr5-pick-cube" -> saved to ./data/fr5-pick-cube/
+  #                          -> HuggingFace: your_username/fr5-pick-cube
+  name: "fr5_test_dataset6"
+
+  # Your HuggingFace username (repo_id will be {hf_username}/{dataset.name})
+  hf_username: "xhaka3456"
+
+  # Local root directory for datasets
+  local_root: "/home/stream/vla/datasets"
+
+  # Frames per second (camera FPS)
+  fps: 30
+
+  # Use video encoding (recommended for storage efficiency)
+  use_videos: true
+
+  # Resume recording on existing dataset (adds new episodes)
+  resume: true
+
+  # Display camera feeds and data visualization during recording
+  display_data: true
+
+# ==================== Recording ====================
+recording:
+  # Number of episodes to record
+  num_episodes: 3
+
+  # Duration of each episode (seconds)
+  episode_time_s: 15
+
+  # Reset/rest time between episodes (seconds)
+  reset_time_s: 1
+
+  # Task description (asked once at the start of recording)
+  # All episodes in this recording session will have the same task
+  task_description: "Pick and place the cube"
+
+# ==================== Robot ====================
+robot:
+  # FR5 robot IP address
+  ip: "192.168.58.2"
+
+  # Robot type identifier
+  robot_type: "fr5"
+
+# ==================== Cameras ====================
+cameras:
+  # Wrist camera
+  wrist:
+    device_id: 2  # /dev/video0
+    width: 640
+    height: 480
+    fps: 30
+
+  # Front camera
+  front:
+    device_id: 4  # /dev/video1
+    width: 640
+    height: 480
+    fps: 30
+
+# ==================== Quest ====================
+quest:
+  # Quest data receiver port
+  port: 5454
+
+  # Quest HZ (should match robot control HZ)
+  hz: 72
