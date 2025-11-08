@@ -27,8 +27,9 @@ This repository is intended as a modular playground for:
 ## Getting Started
 
 ```bash
-git clone https://github.com/cananella/SynchroHumanoid.git
+git clone --recurse-submodules https://github.com/cananella/SynchroHumanoid.git
 cd SynchroHumanoid
 # Setup instructions will be added here (env, deps, simulator, robot API, etc.)
+uv sync
 ```
 
