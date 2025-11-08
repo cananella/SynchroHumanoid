@@ -4,3 +4,6 @@
 [submodule "third_party/fairino_python_sdk"]
 	path = third_party/fairino_python_sdk
 	url = https://github.com/FAIR-INNOVATION/fairino-python-sdk.git
+[submodule "third_party/openarm_can"]
+	path = third_party/openarm_can
+	url = https://github.com/enactic/openarm_can.git
