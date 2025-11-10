@@ -1,0 +1,125 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/build/openarm_description
+-- Install configuration: ""
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/launch
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/launch/display_openarm.launch.py
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/body
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/body/v10
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/body/v10/visual
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/body/v10/visual/body_link0.dae
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/body/v10/visual/body_link0.stl
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/body/v10/collision
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/body/v10/collision/body_link0_symp.stl
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/ee
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/ee/openarm_hand
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/ee/openarm_hand/visual
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/ee/openarm_hand/visual/finger.stl
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/ee/openarm_hand/visual/hand.dae
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/ee/openarm_hand/visual/finger.dae
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/ee/openarm_hand/collision
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/ee/openarm_hand/collision/finger.stl
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/ee/openarm_hand/collision/hand.stl
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link4.stl
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link5.stl
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link7.stl
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link5.dae
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link2.stl
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link3.stl
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link6.dae
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link6.stl
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link3.dae
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link0.stl
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link1.stl
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link1.dae
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link7.dae
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link2.dae
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link4.dae
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link0.dae
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/collision
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/collision/link5_symp.stl
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/collision/link3_symp.stl
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/collision/link4_symp.stl
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/collision/link1_symp.stl
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/collision/link2_symp.stl
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/collision/link0_symp.stl
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/collision/link7_symp.stl
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/collision/link6_symp.stl
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/rviz
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/rviz/bimanual.rviz
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/rviz/arm_only.rviz
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/urdf
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/urdf/robot
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/urdf/robot/openarm_robot.xacro
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/urdf/robot/v10.urdf.xacro
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/urdf/body
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/urdf/body/openarm_body_macro.xacro
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/urdf/body/openarm_body.xacro
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/urdf/ee
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/urdf/ee/openarm_hand_arguments.xacro
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/urdf/ee/ee_with_one_link.xacro
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/urdf/ee/openarm_hand.xacro
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/urdf/ee/openarm_hand_macro.xacro
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/urdf/ros2_control
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/urdf/ros2_control/openarm.bimanual.ros2_control.xacro
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/urdf/ros2_control/openarm.ros2_control.xacro
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/urdf/arm
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/urdf/arm/openarm_macro.xacro
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/urdf/arm/openarm_arm.xacro
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/config
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/config/hand
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/config/hand/openarm_hand
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/config/hand/openarm_hand/joint_limits.yaml
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/config/hand/openarm_hand/kinematics.yaml
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/config/hand/openarm_hand/inertials.yaml
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/config/hand/openarm_hand/kinematics_link.yaml
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/config/body
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/config/body/v10
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/config/body/v10/kinematics.yaml
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/config/body/v10/inertials.yaml
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/config/body/v10/kinematics_link.yaml
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/config/arm
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/config/arm/v10
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/config/arm/v10/kinematics_offset.yaml
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/config/arm/v10/joint_limits.yaml
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/config/arm/v10/kinematics.yaml
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/config/arm/v10/inertials.yaml
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/config/arm/v10/kinematics_link.yaml
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/ament_index/resource_index/package_run_dependencies/openarm_description
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/ament_index/resource_index/parent_prefix_path/openarm_description
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/environment/ament_prefix_path.sh
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/environment/ament_prefix_path.dsv
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/environment/path.sh
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/environment/path.dsv
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/local_setup.bash
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/local_setup.sh
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/local_setup.zsh
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/local_setup.dsv
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/package.dsv
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/ament_index/resource_index/packages/openarm_description
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/cmake/openarm_descriptionConfig.cmake
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/cmake/openarm_descriptionConfig-version.cmake
+-- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/package.xml

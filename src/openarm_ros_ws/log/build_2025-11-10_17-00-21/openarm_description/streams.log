@@ -1,0 +1,131 @@
+[0.019s] Invoking command in '/home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/build/openarm_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/cananella/turtlebot_ws/install/turtlebot3_teleop:/home/cananella/turtlebot_ws/install/turtlebot3_example:/home/cananella/turtlebot_ws/install/moveit_configs_utils:/home/cananella/turtlebot_ws/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/src/openarm_description -DCMAKE_INSTALL_PREFIX=/home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description
+[0.074s] -- The C compiler identification is GNU 11.4.0
+[0.117s] -- The CXX compiler identification is GNU 11.4.0
+[0.123s] -- Detecting C compiler ABI info
+[0.194s] -- Detecting C compiler ABI info - done
+[0.198s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.198s] -- Detecting C compile features
+[0.199s] -- Detecting C compile features - done
+[0.200s] -- Detecting CXX compiler ABI info
+[0.277s] -- Detecting CXX compiler ABI info - done
+[0.282s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.282s] -- Detecting CXX compile features
+[0.282s] -- Detecting CXX compile features - done
+[0.290s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.415s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.559s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.660s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.663s] -- Added test 'lint_cmake' to check CMake code style
+[0.663s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.669s] -- Added test 'xmllint' to check XML markup files
+[0.672s] -- Configuring done
+[0.674s] -- Generating done
+[0.675s] -- Build files have been written to: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/build/openarm_description
+[0.679s] Invoked command in '/home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/build/openarm_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/cananella/turtlebot_ws/install/turtlebot3_teleop:/home/cananella/turtlebot_ws/install/turtlebot3_example:/home/cananella/turtlebot_ws/install/moveit_configs_utils:/home/cananella/turtlebot_ws/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/src/openarm_description -DCMAKE_INSTALL_PREFIX=/home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description
+[0.680s] Invoking command in '/home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/build/openarm_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/cananella/turtlebot_ws/install/turtlebot3_teleop:/home/cananella/turtlebot_ws/install/turtlebot3_example:/home/cananella/turtlebot_ws/install/moveit_configs_utils:/home/cananella/turtlebot_ws/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/build/openarm_description -- -j16 -l16
+[0.724s] Invoked command in '/home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/build/openarm_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/cananella/turtlebot_ws/install/turtlebot3_teleop:/home/cananella/turtlebot_ws/install/turtlebot3_example:/home/cananella/turtlebot_ws/install/moveit_configs_utils:/home/cananella/turtlebot_ws/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/build/openarm_description -- -j16 -l16
+[0.725s] Invoking command in '/home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/build/openarm_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/cananella/turtlebot_ws/install/turtlebot3_teleop:/home/cananella/turtlebot_ws/install/turtlebot3_example:/home/cananella/turtlebot_ws/install/moveit_configs_utils:/home/cananella/turtlebot_ws/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/build/openarm_description
+[0.734s] -- Install configuration: ""
+[0.734s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/launch
+[0.734s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/launch/display_openarm.launch.py
+[0.734s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes
+[0.734s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/body
+[0.734s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/body/v10
+[0.734s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/body/v10/visual
+[0.734s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/body/v10/visual/body_link0.dae
+[0.742s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/body/v10/visual/body_link0.stl
+[0.748s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/body/v10/collision
+[0.748s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/body/v10/collision/body_link0_symp.stl
+[0.748s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/ee
+[0.748s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/ee/openarm_hand
+[0.748s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/ee/openarm_hand/visual
+[0.749s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/ee/openarm_hand/visual/finger.stl
+[0.750s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/ee/openarm_hand/visual/hand.dae
+[0.751s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/ee/openarm_hand/visual/finger.dae
+[0.756s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/ee/openarm_hand/collision
+[0.756s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/ee/openarm_hand/collision/finger.stl
+[0.756s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/ee/openarm_hand/collision/hand.stl
+[0.756s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm
+[0.756s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10
+[0.756s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual
+[0.756s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link4.stl
+[0.760s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link5.stl
+[0.765s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link7.stl
+[0.769s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link5.dae
+[0.775s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link2.stl
+[0.779s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link3.stl
+[0.783s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link6.dae
+[0.788s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link6.stl
+[0.791s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link3.dae
+[0.796s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link0.stl
+[0.799s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link1.stl
+[0.804s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link1.dae
+[0.809s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link7.dae
+[0.814s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link2.dae
+[0.819s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link4.dae
+[0.823s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/visual/link0.dae
+[0.826s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/collision
+[0.826s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/collision/link5_symp.stl
+[0.826s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/collision/link3_symp.stl
+[0.826s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/collision/link4_symp.stl
+[0.828s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/collision/link1_symp.stl
+[0.828s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/collision/link2_symp.stl
+[0.828s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/collision/link0_symp.stl
+[0.828s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/collision/link7_symp.stl
+[0.828s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/meshes/arm/v10/collision/link6_symp.stl
+[0.828s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/rviz
+[0.829s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/rviz/bimanual.rviz
+[0.829s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/rviz/arm_only.rviz
+[0.829s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/urdf
+[0.830s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/urdf/robot
+[0.830s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/urdf/robot/openarm_robot.xacro
+[0.830s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/urdf/robot/v10.urdf.xacro
+[0.830s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/urdf/body
+[0.830s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/urdf/body/openarm_body_macro.xacro
+[0.830s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/urdf/body/openarm_body.xacro
+[0.830s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/urdf/ee
+[0.831s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/urdf/ee/openarm_hand_arguments.xacro
+[0.831s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/urdf/ee/ee_with_one_link.xacro
+[0.831s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/urdf/ee/openarm_hand.xacro
+[0.831s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/urdf/ee/openarm_hand_macro.xacro
+[0.831s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/urdf/ros2_control
+[0.831s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/urdf/ros2_control/openarm.bimanual.ros2_control.xacro
+[0.831s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/urdf/ros2_control/openarm.ros2_control.xacro
+[0.831s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/urdf/arm
+[0.831s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/urdf/arm/openarm_macro.xacro
+[0.831s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/urdf/arm/openarm_arm.xacro
+[0.831s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/config
+[0.831s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/config/hand
+[0.832s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/config/hand/openarm_hand
+[0.832s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/config/hand/openarm_hand/joint_limits.yaml
+[0.832s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/config/hand/openarm_hand/kinematics.yaml
+[0.832s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/config/hand/openarm_hand/inertials.yaml
+[0.832s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/config/hand/openarm_hand/kinematics_link.yaml
+[0.832s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/config/body
+[0.832s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/config/body/v10
+[0.832s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/config/body/v10/kinematics.yaml
+[0.832s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/config/body/v10/inertials.yaml
+[0.832s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/config/body/v10/kinematics_link.yaml
+[0.832s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/config/arm
+[0.832s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/config/arm/v10
+[0.833s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/config/arm/v10/kinematics_offset.yaml
+[0.833s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/config/arm/v10/joint_limits.yaml
+[0.833s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/config/arm/v10/kinematics.yaml
+[0.833s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/config/arm/v10/inertials.yaml
+[0.833s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/config/arm/v10/kinematics_link.yaml
+[0.833s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/ament_index/resource_index/package_run_dependencies/openarm_description
+[0.833s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/ament_index/resource_index/parent_prefix_path/openarm_description
+[0.833s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/environment/ament_prefix_path.sh
+[0.833s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/environment/ament_prefix_path.dsv
+[0.833s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/environment/path.sh
+[0.834s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/environment/path.dsv
+[0.834s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/local_setup.bash
+[0.834s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/local_setup.sh
+[0.834s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/local_setup.zsh
+[0.835s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/local_setup.dsv
+[0.835s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/package.dsv
+[0.835s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/ament_index/resource_index/packages/openarm_description
+[0.835s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/cmake/openarm_descriptionConfig.cmake
+[0.835s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/cmake/openarm_descriptionConfig-version.cmake
+[0.835s] -- Installing: /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/install/openarm_description/share/openarm_description/package.xml
+[0.837s] Invoked command in '/home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/build/openarm_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/cananella/turtlebot_ws/install/turtlebot3_teleop:/home/cananella/turtlebot_ws/install/turtlebot3_example:/home/cananella/turtlebot_ws/install/moveit_configs_utils:/home/cananella/turtlebot_ws/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/cananella/project/SynchroHumanoid/src/openarm_ros_ws/build/openarm_description
