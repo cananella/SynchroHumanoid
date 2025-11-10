@@ -8,3 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+
+.vscode
+src/openarm_ros_ws/build/
+src/openarm_ros_ws/install/
