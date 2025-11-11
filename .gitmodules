@@ -13,3 +13,6 @@
 [submodule "src/openarm_ros_ws/src/openarm_ros2"]
 	path = src/openarm_ros_ws/src/openarm_ros2
 	url = https://github.com/enactic/openarm_ros2.git
+[submodule "third_party/openarm_mujoco"]
+	path = third_party/openarm_mujoco
+	url = https://github.com/enactic/openarm_mujoco.git

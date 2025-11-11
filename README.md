@@ -18,9 +18,6 @@ This repository is intended as a modular playground for:
 - Validate policies in **simulation first**, then deploy on real hardware with minimal gap.
 - Maintain a **digital twin** for repeatable experiments and debugging.
 
----
-
-## Projects
 
 ---
 
@@ -33,3 +30,17 @@ cd SynchroHumanoid
 uv sync
 ```
 
+---
+
+## Projects
+### Common
+* **Activate venv**
+```bash
+source activate
+```
+* **Activate open arm ros workspace**
+```bash
+source src/openarm_ros_ws/install/setup.bash
+```
+
+### [fr5 pybrain (fr5 vr controller)](projects/fr5_pytbrain/README_RECORD.md)
