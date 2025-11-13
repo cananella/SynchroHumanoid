@@ -20,3 +20,11 @@
 	path = ros_src/src/moveit2
 	url = https://github.com/moveit/moveit2.git
 	branch = humble
+[submodule "ros_src/src/moveit_resources"]
+	path = ros_src/src/moveit_resources
+	url = https://github.com/ros-planning/moveit_resources.git
+	branch = humble
+[submodule "ros_src/src/moveit_msgs"]
+	path = ros_src/src/moveit_msgs
+	url = https://github.com/ros-planning/moveit_msgs.git
+	branch = humble

@@ -1,0 +1,8 @@
+source;share/openarm/hook/cmake_prefix_path.ps1
+source;share/openarm/hook/cmake_prefix_path.dsv
+source;share/openarm/hook/cmake_prefix_path.sh
+source;share/openarm/local_setup.bash
+source;share/openarm/local_setup.dsv
+source;share/openarm/local_setup.ps1
+source;share/openarm/local_setup.sh
+source;share/openarm/local_setup.zsh
