@@ -12,3 +12,4 @@ wheels/
 .vscode
 log
 build
+install
