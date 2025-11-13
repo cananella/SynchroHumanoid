@@ -13,3 +13,6 @@
 [submodule "projects/openarm/src/openarm_ros2"]
 	path = projects/openarm/src/openarm_ros2
 	url = https://github.com/enactic/openarm_ros2.git
+[submodule "projects/openarm/src/openarm_description"]
+	path = projects/openarm/src/openarm_description
+	url = https://github.com/enactic/openarm_description.git
