@@ -40,7 +40,7 @@ source activate
 ```
 * **Activate open arm ros workspace**
 ```bash
-source src/openarm_ros_ws/install/setup.bash
+source ros_src/install/setup.bash
 ```
 
 ### [fr5 pybrain (fr5 vr controller)](projects/fr5_pytbrain/README_RECORD.md)
