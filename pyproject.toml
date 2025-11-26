@@ -5,9 +5,11 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
-    "lerobot", 
+    "lerobot",
+    "genesis-world",
 ]
 
 
 [tool.uv.sources]
 lerobot = { path = "third_party/lerobot", editable = true }
+genesis-world = { path = "third_party/Genesis", editable = true }
