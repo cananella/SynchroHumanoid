@@ -34,13 +34,9 @@ uv sync
 
 ## Projects
 ### Common
-* **Activate venv**
+* **Activate venv and ros workspace**
 ```bash
-source activate
-```
-* **Activate open arm ros workspace**
-```bash
-source ros_src/install/setup.bash
+source source scripts/system_load.sh
 ```
 
 ### [fr5 pybrain (fr5 vr controller)](projects/fr5_pytbrain/README_RECORD.md)
