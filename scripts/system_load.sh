@@ -15,7 +15,7 @@ else
     echo "Warning: activate file not found at $PROJECT_ROOT/activate"
 fi
 
-Source ROS 2 Humble base installation
+# Source ROS 2 Humble base installation
 if [ -f "/opt/ros/humble/setup.bash" ]; then
     echo "Sourcing /opt/ros/humble/setup.bash..."
     source "/opt/ros/humble/setup.bash"
