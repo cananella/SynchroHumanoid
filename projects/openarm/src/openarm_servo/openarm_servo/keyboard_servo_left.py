@@ -19,12 +19,12 @@ class KeyboardServo(Node):
         # Publishers
         self.twist_pub = self.create_publisher(
             TwistStamped,
-            '/servo_node/delta_twist_cmds',
+            '/left_arm/servo_node/delta_twist_cmds',
             10
         )
         self.joint_pub = self.create_publisher(
             JointJog,
-            '/servo_node/delta_joint_cmds',
+            '/left_arm/servo_node/delta_joint_cmds',
             10
         )
 
