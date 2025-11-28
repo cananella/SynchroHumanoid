@@ -8,14 +8,27 @@ endif()
 # find dependencies
 find_package(ament_cmake REQUIRED)
 find_package(ament_cmake_python REQUIRED)
+find_package(rclcpp REQUIRED)
+find_package(moveit_servo REQUIRED)
 # uncomment the following section in order to fill in
 # further dependencies manually.
 # find_package(<dependency> REQUIRED)
 
 
+################ c++ build ################ 
+add_executable(servo_test src/servo_test.cpp)
+ament_target_dependencies(servo_test rclcpp std_msgs moveit_servo)
+
+install(
+  TARGETS servo_test
+  DESTINATION lib/${PROJECT_NAME}
+)
+
+########## python build #################
 ament_python_install_package(${PROJECT_NAME})
 install(
   PROGRAMS
+    ${PROJECT_NAME}/test.py
     ${PROJECT_NAME}/servo_monitor.py
     ${PROJECT_NAME}/keyboard_servo_right.py
     ${PROJECT_NAME}/keyboard_servo_left.py
