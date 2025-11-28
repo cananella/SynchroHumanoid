@@ -33,8 +33,12 @@ int main(int argc, char** argv)
     
     // Start the planning scene monitor
     planning_scene_monitor->startSceneMonitor();
-    planning_scene_monitor->startStateMonitor();
+    planning_scene_monitor->startStateMonitor("/joint_states");  // Explicitly specify joint_states topic
     planning_scene_monitor->startWorldGeometryMonitor();
+    
+    // Wait for initial joint states
+    RCLCPP_INFO(LOGGER, "Waiting for joint states...");
+    planning_scene_monitor->waitForCurrentRobotState(node_->now(), 5.0);
     
     std::cout<<"====================planning scene monitor created===================="<<std::endl;
 
