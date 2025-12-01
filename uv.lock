@@ -474,19 +474,19 @@ wheels = [
 
 [[package]]
 name = "fonttools"
-version = "4.60.1"
+version = "4.61.0"
 source = { registry = "https://pypi.org/simple" }
-sdist = { url = "https://files.pythonhosted.org/packages/4b/42/97a13e47a1e51a5a7142475bbcf5107fe3a68fc34aef331c897d5fb98ad0/fonttools-4.60.1.tar.gz", hash = "sha256:ef00af0439ebfee806b25f24c8f92109157ff3fac5731dc7867957812e87b8d9", size = 3559823, upload-time = "2025-09-29T21:13:27.129Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/33/f9/0e84d593c0e12244150280a630999835a64f2852276161b62a0f98318de0/fonttools-4.61.0.tar.gz", hash = "sha256:ec520a1f0c7758d7a858a00f090c1745f6cde6a7c5e76fb70ea4044a15f712e7", size = 3561884, upload-time = "2025-11-28T17:05:49.491Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/26/70/03e9d89a053caff6ae46053890eba8e4a5665a7c5638279ed4492e6d4b8b/fonttools-4.60.1-cp310-cp310-macosx_10_9_universal2.whl", hash = "sha256:9a52f254ce051e196b8fe2af4634c2d2f02c981756c6464dc192f1b6050b4e28", size = 2810747, upload-time = "2025-09-29T21:10:59.653Z" },
-    { url = "https://files.pythonhosted.org/packages/6f/41/449ad5aff9670ab0df0f61ee593906b67a36d7e0b4d0cd7fa41ac0325bf5/fonttools-4.60.1-cp310-cp310-macosx_10_9_x86_64.whl", hash = "sha256:c7420a2696a44650120cdd269a5d2e56a477e2bfa9d95e86229059beb1c19e15", size = 2346909, upload-time = "2025-09-29T21:11:02.882Z" },
-    { url = "https://files.pythonhosted.org/packages/9a/18/e5970aa96c8fad1cb19a9479cc3b7602c0c98d250fcdc06a5da994309c50/fonttools-4.60.1-cp310-cp310-manylinux2014_aarch64.manylinux_2_17_aarch64.manylinux_2_28_aarch64.whl", hash = "sha256:ee0c0b3b35b34f782afc673d503167157094a16f442ace7c6c5e0ca80b08f50c", size = 4864572, upload-time = "2025-09-29T21:11:05.096Z" },
-    { url = "https://files.pythonhosted.org/packages/ce/20/9b2b4051b6ec6689480787d506b5003f72648f50972a92d04527a456192c/fonttools-4.60.1-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.whl", hash = "sha256:282dafa55f9659e8999110bd8ed422ebe1c8aecd0dc396550b038e6c9a08b8ea", size = 4794635, upload-time = "2025-09-29T21:11:08.651Z" },
-    { url = "https://files.pythonhosted.org/packages/10/52/c791f57347c1be98f8345e3dca4ac483eb97666dd7c47f3059aeffab8b59/fonttools-4.60.1-cp310-cp310-musllinux_1_2_aarch64.whl", hash = "sha256:4ba4bd646e86de16160f0fb72e31c3b9b7d0721c3e5b26b9fa2fc931dfdb2652", size = 4843878, upload-time = "2025-09-29T21:11:10.893Z" },
-    { url = "https://files.pythonhosted.org/packages/69/e9/35c24a8d01644cee8c090a22fad34d5b61d1e0a8ecbc9945ad785ebf2e9e/fonttools-4.60.1-cp310-cp310-musllinux_1_2_x86_64.whl", hash = "sha256:0b0835ed15dd5b40d726bb61c846a688f5b4ce2208ec68779bc81860adb5851a", size = 4954555, upload-time = "2025-09-29T21:11:13.24Z" },
-    { url = "https://files.pythonhosted.org/packages/f7/86/fb1e994971be4bdfe3a307de6373ef69a9df83fb66e3faa9c8114893d4cc/fonttools-4.60.1-cp310-cp310-win32.whl", hash = "sha256:1525796c3ffe27bb6268ed2a1bb0dcf214d561dfaf04728abf01489eb5339dce", size = 2232019, upload-time = "2025-09-29T21:11:15.73Z" },
-    { url = "https://files.pythonhosted.org/packages/40/84/62a19e2bd56f0e9fb347486a5b26376bade4bf6bbba64dda2c103bd08c94/fonttools-4.60.1-cp310-cp310-win_amd64.whl", hash = "sha256:268ecda8ca6cb5c4f044b1fb9b3b376e8cd1b361cef275082429dc4174907038", size = 2276803, upload-time = "2025-09-29T21:11:18.152Z" },
-    { url = "https://files.pythonhosted.org/packages/c7/93/0dd45cd283c32dea1545151d8c3637b4b8c53cdb3a625aeb2885b184d74d/fonttools-4.60.1-py3-none-any.whl", hash = "sha256:906306ac7afe2156fcf0042173d6ebbb05416af70f6b370967b47f8f00103bbb", size = 1143175, upload-time = "2025-09-29T21:13:24.134Z" },
+    { url = "https://files.pythonhosted.org/packages/29/f3/91bba2721fb173fc68e09d15b6ccf3ad4f83d127fbff579be7e5984888a6/fonttools-4.61.0-cp310-cp310-macosx_10_9_universal2.whl", hash = "sha256:dc25a4a9c1225653e4431a9413d0381b1c62317b0f543bdcec24e1991f612f33", size = 2850151, upload-time = "2025-11-28T17:04:14.214Z" },
+    { url = "https://files.pythonhosted.org/packages/f5/8c/a1691dec01038ac7e7bb3ab83300dcc5087b11d8f48640928c02a873eb92/fonttools-4.61.0-cp310-cp310-macosx_10_9_x86_64.whl", hash = "sha256:6b493c32d2555e9944ec1b911ea649ff8f01a649ad9cba6c118d6798e932b3f0", size = 2389769, upload-time = "2025-11-28T17:04:16.443Z" },
+    { url = "https://files.pythonhosted.org/packages/2d/dd/5bb369a44319d92ba25612511eb8ed2a6fa75239979e0388907525626902/fonttools-4.61.0-cp310-cp310-manylinux2014_aarch64.manylinux_2_17_aarch64.manylinux_2_28_aarch64.whl", hash = "sha256:ad751319dc532a79bdf628b8439af167181b4210a0cd28a8935ca615d9fdd727", size = 4893189, upload-time = "2025-11-28T17:04:18.398Z" },
+    { url = "https://files.pythonhosted.org/packages/5e/02/51373fa8846bd22bb54e5efb30a824b417b058083f775a194a432f21a45f/fonttools-4.61.0-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.whl", hash = "sha256:2de14557d113faa5fb519f7f29c3abe4d69c17fe6a5a2595cc8cda7338029219", size = 4854415, upload-time = "2025-11-28T17:04:20.421Z" },
+    { url = "https://files.pythonhosted.org/packages/8b/64/9cdbbb804577a7e6191448851c57e6a36eb02aa4bf6a9668b528c968e44e/fonttools-4.61.0-cp310-cp310-musllinux_1_2_aarch64.whl", hash = "sha256:59587bbe455dbdf75354a9dbca1697a35a8903e01fab4248d6b98a17032cee52", size = 4870927, upload-time = "2025-11-28T17:04:22.625Z" },
+    { url = "https://files.pythonhosted.org/packages/92/68/e40b22919dc96dc30a70b58fec609ab85112de950bdecfadf8dd478c5a88/fonttools-4.61.0-cp310-cp310-musllinux_1_2_x86_64.whl", hash = "sha256:46cb3d9279f758ac0cf671dc3482da877104b65682679f01b246515db03dbb72", size = 4988674, upload-time = "2025-11-28T17:04:24.675Z" },
+    { url = "https://files.pythonhosted.org/packages/9b/5c/e857349ce8aedb2451b9448282e86544b2b7f1c8b10ea0fe49b7cb369b72/fonttools-4.61.0-cp310-cp310-win32.whl", hash = "sha256:58b4f1b78dfbfe855bb8a6801b31b8cdcca0e2847ec769ad8e0b0b692832dd3b", size = 1497663, upload-time = "2025-11-28T17:04:26.598Z" },
+    { url = "https://files.pythonhosted.org/packages/f9/0c/62961d5fe6f764d6cbc387ef2c001f5f610808c7aded837409836c0b3e7c/fonttools-4.61.0-cp310-cp310-win_amd64.whl", hash = "sha256:68704a8bbe0b61976262b255e90cde593dc0fe3676542d9b4d846bad2a890a76", size = 1546143, upload-time = "2025-11-28T17:04:28.432Z" },
+    { url = "https://files.pythonhosted.org/packages/0c/14/634f7daea5ffe6a5f7a0322ba8e1a0e23c9257b80aa91458107896d1dfc7/fonttools-4.61.0-py3-none-any.whl", hash = "sha256:276f14c560e6f98d24ef7f5f44438e55ff5a67f78fa85236b218462c9f5d0635", size = 1144485, upload-time = "2025-11-28T17:05:47.573Z" },
 ]
 
 [[package]]
@@ -545,7 +545,7 @@ http = [
 [[package]]
 name = "genesis-world"
 version = "0.3.7"
-source = { editable = "third_party/Genesis" }
+source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "coacd" },
     { name = "fast-simplification" },
@@ -578,69 +578,9 @@ dependencies = [
     { name = "vtk" },
     { name = "z3-solver" },
 ]
-
-[package.metadata]
-requires-dist = [
-    { name = "av", marker = "extra == 'dev'" },
-    { name = "black", marker = "extra == 'dev'" },
-    { name = "coacd" },
-    { name = "fast-simplification", specifier = ">=0.1.12" },
-    { name = "freetype-py" },
-    { name = "gs-madrona", marker = "(platform_machine == 'AMD64' and sys_platform == 'linux') or (platform_machine == 'x86_64' and sys_platform == 'linux')", specifier = "==0.0.5" },
-    { name = "gstaichi", specifier = "==4.2.0" },
-    { name = "huggingface-hub", extras = ["hf-xet"], marker = "extra == 'dev'" },
-    { name = "ipython", marker = "extra == 'dev'" },
-    { name = "libigl" },
-    { name = "matplotlib", marker = "extra == 'dev'", specifier = ">=3.7.0" },
-    { name = "moviepy", specifier = ">=2.0.0" },
-    { name = "mujoco", specifier = ">=3.2.5" },
-    { name = "mujoco", marker = "extra == 'dev'", specifier = ">=3.3.6,<3.4.0" },
-    { name = "myst-parser", marker = "extra == 'docs'" },
-    { name = "numba" },
-    { name = "numpy", specifier = ">=1.26.4" },
-    { name = "open3d", marker = "extra == 'render'" },
-    { name = "opencv-python" },
-    { name = "openexr" },
-    { name = "pillow", specifier = ">11.0" },
-    { name = "psutil" },
-    { name = "py-cpuinfo" },
-    { name = "pybind11", extras = ["global"], marker = "extra == 'render'" },
-    { name = "pycollada" },
-    { name = "pydantic", specifier = ">=2.11.0" },
-    { name = "pydata-sphinx-theme", marker = "extra == 'docs'" },
-    { name = "pygel3d" },
-    { name = "pyglet", specifier = ">=1.5,!=2.1.8" },
-    { name = "pygltflib", specifier = "==1.16.0" },
-    { name = "pymeshlab" },
-    { name = "pyopengl", specifier = ">=3.1.4" },
-    { name = "pysplashsurf", specifier = "<=0.12.0.2" },
-    { name = "pytest", marker = "extra == 'dev'" },
-    { name = "pytest-forked", marker = "extra == 'dev'" },
-    { name = "pytest-print", marker = "extra == 'dev'" },
-    { name = "pytest-random-order", marker = "extra == 'dev'" },
-    { name = "pytest-rerunfailures", marker = "extra == 'dev'", specifier = "!=16.0" },
-    { name = "pytest-xdist", marker = "extra == 'dev'" },
-    { name = "rtree" },
-    { name = "scikit-image" },
-    { name = "scipy", specifier = ">=1.14" },
-    { name = "sphinx", marker = "extra == 'docs'", specifier = "==6.2.1" },
-    { name = "sphinx-autobuild", marker = "extra == 'docs'" },
-    { name = "sphinx-autodoc-typehints", marker = "extra == 'docs'" },
-    { name = "sphinx-copybutton", marker = "extra == 'docs'" },
-    { name = "sphinx-design", marker = "extra == 'docs'" },
-    { name = "sphinx-subfigure", marker = "extra == 'docs'" },
-    { name = "sphinx-togglebutton", marker = "extra == 'docs'" },
-    { name = "sphinxcontrib-spelling", marker = "extra == 'docs'" },
-    { name = "sphinxcontrib-video", marker = "extra == 'docs'" },
-    { name = "syrupy", marker = "extra == 'dev'" },
-    { name = "tetgen", marker = "platform_machine != 'aarch64'", specifier = ">=0.6.4,<0.7.0" },
-    { name = "trimesh" },
-    { name = "usd-core", marker = "extra == 'usd'", specifier = "<25.11" },
-    { name = "vtk" },
-    { name = "wandb", marker = "extra == 'dev'" },
-    { name = "z3-solver" },
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/21/50/5e41152c90b36d173522cb43bd9403e7174ecf3bbb2cb28f76e0122e5f7b/genesis_world-0.3.7-py3-none-any.whl", hash = "sha256:06cd98bf23c6146a858e9254e4b648f509bfa35161a95905182314a9aea5b107", size = 82481395, upload-time = "2025-11-12T15:23:28.44Z" },
 ]
-provides-extras = ["dev", "docs", "render", "usd"]
 
 [[package]]
 name = "gitdb"
@@ -693,7 +633,7 @@ wheels = [
 
 [[package]]
 name = "gstaichi"
-version = "4.2.0"
+version = "4.0.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "cffi" },
@@ -705,10 +645,10 @@ dependencies = [
     { name = "setuptools" },
 ]
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/f8/62/cb58d7c34698bf4b2292990f90ba314a4125302fae2e3ae307ba053820fe/gstaichi-4.2.0-cp310-cp310-macosx_11_0_arm64.whl", hash = "sha256:33451ee1585f484be1f9fd3facc787dd19c0052e1c933a4cb3ece3e1189b94ab", size = 30738994, upload-time = "2025-11-17T19:54:21.242Z" },
-    { url = "https://files.pythonhosted.org/packages/61/64/a3f82d63a3d81f8571f686029ecefe092f699246c0907bdb8e39eb69f894/gstaichi-4.2.0-cp310-cp310-manylinux_2_27_aarch64.manylinux_2_34_aarch64.whl", hash = "sha256:50aa5e571239763e51dbf58fba2b2257b705a553e2fd15508db4f37b231e1437", size = 35563617, upload-time = "2025-11-17T19:42:36.595Z" },
-    { url = "https://files.pythonhosted.org/packages/bc/ec/6afe6a904507a49a3057f4916de12847dab27dff0fab0e23f8876cb6b786/gstaichi-4.2.0-cp310-cp310-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl", hash = "sha256:9f119ea1d3b3e30219b964394639901d2822cbf397cc2cb5c09559e98fb225a6", size = 38188289, upload-time = "2025-11-17T19:42:36.563Z" },
-    { url = "https://files.pythonhosted.org/packages/6e/56/ecedbaed9ddc791a7b9e17cd8001194d0a8f0b6456e546e4d2bcbdb19861/gstaichi-4.2.0-cp310-cp310-win_amd64.whl", hash = "sha256:e13c00441af014b0544c82a259153b3571468869c71432e962c0a39c2700b537", size = 56171013, upload-time = "2025-11-17T19:47:09.389Z" },
+    { url = "https://files.pythonhosted.org/packages/3e/a5/624a22a42aa5ee5e9393d47557efc2505aeccc3067ebee4a957e55777fc4/gstaichi-4.0.0-cp310-cp310-macosx_11_0_arm64.whl", hash = "sha256:92bf9417fab8d4c959a2aa684a114faf74f81356d687e19741e0f285ec5c8022", size = 26848638, upload-time = "2025-11-12T11:35:37.293Z" },
+    { url = "https://files.pythonhosted.org/packages/39/4b/44fadfed91ac18a65ced7d3e841144417008e64b0e6a5fbc72e5b89f7e96/gstaichi-4.0.0-cp310-cp310-manylinux_2_27_aarch64.manylinux_2_34_aarch64.whl", hash = "sha256:24f944b5890144ba632d3f029c1bcdf6a018dc206ddf2ec9f84a81c93fcba6d6", size = 30221401, upload-time = "2025-11-12T11:11:53.354Z" },
+    { url = "https://files.pythonhosted.org/packages/2f/61/09fcc5a0ddac536d176d7313528accd85a8e9f15eb2a66aa75899f7fd556/gstaichi-4.0.0-cp310-cp310-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl", hash = "sha256:643e8ddb8d441527dee04cfe015042dfaac680563343122a851751dfd04a8d9b", size = 32811616, upload-time = "2025-11-12T11:11:53.22Z" },
+    { url = "https://files.pythonhosted.org/packages/26/9b/383f23e45261bd84092b1468787f8f7a4cfb2f270d6ef791424b67d16d35/gstaichi-4.0.0-cp310-cp310-win_amd64.whl", hash = "sha256:47c7cab0fb4b9f00db4f71bb3a021c5c000ef96e04608400552fe09a842a20fd", size = 52267454, upload-time = "2025-11-12T11:11:33.168Z" },
 ]
 
 [[package]]
@@ -2298,7 +2238,7 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
-    { name = "genesis-world", editable = "third_party/Genesis" },
+    { name = "genesis-world", specifier = ">=0.3.7" },
     { name = "lerobot", editable = "third_party/lerobot" },
     { name = "pyyaml", specifier = ">=6.0.3" },
 ]
@@ -2323,18 +2263,17 @@ wheels = [
 
 [[package]]
 name = "tetgen"
-version = "0.6.7"
+version = "0.7.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "numpy" },
     { name = "pyvista" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/7a/f0/806fe5eb8abe92c97a4e010cba9d3ea4118956cf68cd24f5af8aa06cd14e/tetgen-0.6.7.tar.gz", hash = "sha256:d0be1f81be046dc954b8804567f5164ceb2eb4d5b335d97ca450a9fdb294af16", size = 515797, upload-time = "2025-07-28T17:03:24.824Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/6d/ba/dccbdad0ab662ff7533d55d9a39872e98ae02172daf967d4b9523c1d474e/tetgen-0.7.0.tar.gz", hash = "sha256:9b0778d210b20a4ac3c9105fa1f7fd40d74ad5afb3ab404daa6df348b411f826", size = 528744, upload-time = "2025-11-25T20:34:30.7Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/4b/65/612a41d0f0fa7af6a6ed9e0f2df451fa1926c2e02086ce7036df0dffe2c7/tetgen-0.6.7-cp310-cp310-macosx_10_9_x86_64.whl", hash = "sha256:7543b5ddf808fe883d6609960210d472daa34ffa72fa7ffb3bf892921e91dde6", size = 499817, upload-time = "2025-07-28T17:02:57.975Z" },
-    { url = "https://files.pythonhosted.org/packages/9b/6d/abce9604a78c1c1a4ba4db3af6ff8be93ee92db9dc0bbb1a22bff9ac56f8/tetgen-0.6.7-cp310-cp310-macosx_11_0_arm64.whl", hash = "sha256:1e7dad1e85fc09e50862cef805c0b15fa60c6c6702f1c3783e5b3d5a2192e6f2", size = 452610, upload-time = "2025-07-28T17:03:01.6Z" },
-    { url = "https://files.pythonhosted.org/packages/6a/79/5c4d1846bd868183f48257c11b34acdb3a8f2bcb517c350d063dd6bbb0e1/tetgen-0.6.7-cp310-cp310-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl", hash = "sha256:fbe1a7483a186a29acf01ddc843fb706f0e59708a491ec97f2115111fe83f401", size = 2132346, upload-time = "2025-07-28T17:03:03.103Z" },
-    { url = "https://files.pythonhosted.org/packages/27/00/9d6ea0b259546b955177e258761a754127ebaa5c2dffb6d97d7ec9a57a82/tetgen-0.6.7-cp310-cp310-win_amd64.whl", hash = "sha256:da0648efe42e827e06ddba085b93e3f9bcd2368d8c7b7cd27cbc6c682021d448", size = 342799, upload-time = "2025-07-28T17:03:04.79Z" },
+    { url = "https://files.pythonhosted.org/packages/d6/d1/18ba4813e51d53e0bd6b29b2807080b7b7c313243d371dee9a716e828e50/tetgen-0.7.0-cp310-cp310-macosx_11_0_arm64.whl", hash = "sha256:2f3a592e84db4d81d62bb62e6fc1b7126dae913ce502f683607f2a6cc3aa6a3d", size = 456652, upload-time = "2025-11-25T20:34:08.082Z" },
+    { url = "https://files.pythonhosted.org/packages/00/89/37cf2412071fea04e8c7ad828108f614bdb24ae7ced3f52d78205a351fc1/tetgen-0.7.0-cp310-cp310-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl", hash = "sha256:23789e4fdf34c2615b59c7ab2f119c51b5ff49a413876d901ecc01fd60a5d811", size = 2216515, upload-time = "2025-11-25T20:34:10.275Z" },
+    { url = "https://files.pythonhosted.org/packages/2a/fb/6cd60c9f779d76d6c9b1e39c8114ddee986fa16053eea756ee36b1de8c3e/tetgen-0.7.0-cp310-cp310-win_amd64.whl", hash = "sha256:3de49c4be8a4fbaa8b40d1128966f32afb6302528a257ce8aa94222106a74583", size = 353188, upload-time = "2025-11-25T20:34:12.029Z" },
 ]
 
 [[package]]
