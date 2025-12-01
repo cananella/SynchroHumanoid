@@ -28,6 +28,3 @@
 	path = ros_src/src/moveit_msgs
 	url = https://github.com/ros-planning/moveit_msgs.git
 	branch = humble
-[submodule "third_party/Genesis"]
-	path = third_party/Genesis
-	url = https://github.com/Genesis-Embodied-AI/Genesis.git
