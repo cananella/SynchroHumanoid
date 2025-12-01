@@ -5,8 +5,9 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = "==3.10.*"
 dependencies = [
-    "genesis-world>=0.3.7",
     "lerobot",
+    "genesis-world>=0.3.7",
+    "mani-skill>=3.0.0b21",
     "pyyaml>=6.0.3",
 ]
 
